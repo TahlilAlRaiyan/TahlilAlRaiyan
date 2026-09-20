@@ -4,7 +4,7 @@
 
 ### 💻 CSE Student | Software Developer | Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;C%2B%2B+%7C+C%23+%7C+Java+%7C+Python;Building+Projects+%26+Learning+Every+Day;Breaking+things+to+understand+how+they+work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;C%2B%2B+%7C+C%23+%7C+Java+%7C+Python;Building+Projects+%26+Learning+Every+Day;Turning+ideas+into+working+code" alt="Typing SVG" />
 
 <br>
 
@@ -13,6 +13,12 @@
 </a>
 <a href="https://www.instagram.com/_the_swordfish_/">
   <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/OGtheswordfish.20/">
+  <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="mailto:raiyans525@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -192,9 +198,14 @@ Data Structures    ███████████░░░░░░░
 <a href="https://github.com/TahlilAlRaiyan">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.instagram.com/_the_swordfish_/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/OGtheswordfish.20/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="mailto:raiyans525@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -209,6 +220,6 @@ Data Structures    ███████████░░░░░░░
 
 <br><br>
 
-*"Breaking things to understand how they work."*
+*"Code. Break. Learn. Repeat."*
 
 </div>
