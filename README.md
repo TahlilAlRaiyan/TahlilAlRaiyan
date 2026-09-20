@@ -169,12 +169,13 @@ https://github.com/TahlilAlRaiyan/qr-code-generator-python
 ## 🌱 Currently Learning
 
 ```text
-C++                ███████████████░░░
-C# / .NET          █████████████░░░░░
-Java               ████████████░░░░░░
-Python             ██████████░░░░░░░░
-SQL                ██████████░░░░░░░░
-Data Structures    ███████████░░░░░░░
+C++                      ███████████████░░░
+C# / .NET                █████████████░░░░░
+Java                     ████████████░░░░░░
+Python                   ██████████░░░░░░░░
+SQL                      ██████████░░░░░░░░
+Artificial Intelligence  ████████░░░░░░░░░░
+Machine Learning         ████████░░░░░░░░░░
 ```
 
 ---
