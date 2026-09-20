@@ -18,6 +18,10 @@
 <a href="mailto:raiyans525@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<br>
+<a href="https://tahlilalraiyan.wixsite.com/tahlilalraiyan">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=wix&logoColor=white" />
+</a>
 
 </div>
 
@@ -205,6 +209,10 @@ Machine Learning         ████████░░░░░░░░░░
 </a>
 <a href="mailto:raiyans525@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<br>
+<a href="https://tahlilalraiyan.wixsite.com/tahlilalraiyan">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=wix&logoColor=white"/>
 </a>
 
 </div>
