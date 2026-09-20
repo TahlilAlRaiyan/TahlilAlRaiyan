@@ -11,8 +11,8 @@
 <a href="https://github.com/TahlilAlRaiyan">
   <img src="https://img.shields.io/badge/GitHub-TahlilAlRaiyan-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.instagram.com/_the_swordfish_/">
+  <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
@@ -193,8 +193,8 @@ Data Structures    ███████████░░░░░░░
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.instagram.com/_the_swordfish_/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
