@@ -56,7 +56,7 @@
 
 A Java Swing based GUI application for managing bank loans, repayments and loan-related operations.
 
-🔗 **Repository:**  
+🔗 **Repository:**
 https://github.com/TahlilAlRaiyan/Bank-GUI-Loan-System
 
 ---
@@ -80,7 +80,7 @@ Features include:
 - 👤 Customer Profile
 - 🚪 Logout
 
-🔗 **Repository:**  
+🔗 **Repository:**
 https://github.com/TahlilAlRaiyan/Smart-Car-Rental-Management-System-Customer-Role
 
 ---
@@ -98,7 +98,7 @@ Features:
 - 🖼️ Automatically saves QR code as PNG
 - 🐍 Beginner-friendly Python project
 
-🔗 **Repository:**  
+🔗 **Repository:**
 https://github.com/TahlilAlRaiyan/qr-code-generator-python
 
 ---
@@ -107,9 +107,8 @@ https://github.com/TahlilAlRaiyan/qr-code-generator-python
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TahlilAlRaiyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahlilAlRaiyan&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="180" src="./profile/top-langs.svg" alt="Top languages" />
 
 </div>
 
@@ -119,7 +118,7 @@ https://github.com/TahlilAlRaiyan/qr-code-generator-python
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TahlilAlRaiyan&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=TahlilAlRaiyan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -129,7 +128,11 @@ https://github.com/TahlilAlRaiyan/qr-code-generator-python
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TahlilAlRaiyan&theme=tokyo-night&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TahlilAlRaiyan/TahlilAlRaiyan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TahlilAlRaiyan/TahlilAlRaiyan/output/github-snake.svg" />
+  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/TahlilAlRaiyan/TahlilAlRaiyan/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -140,11 +143,11 @@ https://github.com/TahlilAlRaiyan/qr-code-generator-python
 <div align="center">
 
 <a href="https://github.com/TahlilAlRaiyan/Bank-GUI-Loan-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TahlilAlRaiyan&repo=Bank-GUI-Loan-System&theme=tokyonight&hide_border=true" />
+  <img src="./profile/pin-bank-gui-loan-system.svg" alt="Bank GUI Loan System" />
 </a>
 
 <a href="https://github.com/TahlilAlRaiyan/Smart-Car-Rental-Management-System-Customer-Role">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TahlilAlRaiyan&repo=Smart-Car-Rental-Management-System-Customer-Role&theme=tokyonight&hide_border=true" />
+  <img src="./profile/pin-smart-car-rental.svg" alt="Smart Car Rental Management System" />
 </a>
 
 </div>
@@ -152,7 +155,7 @@ https://github.com/TahlilAlRaiyan/qr-code-generator-python
 <div align="center">
 
 <a href="https://github.com/TahlilAlRaiyan/qr-code-generator-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TahlilAlRaiyan&repo=qr-code-generator-python&theme=tokyonight&hide_border=true" />
+  <img src="./profile/pin-qr-code-generator.svg" alt="QR Code Generator" />
 </a>
 
 </div>
