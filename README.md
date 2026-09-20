@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Tahlil Al Raiyan
-
-### 💻 CSE Student | Software Developer | Problem Solver
+<img src="./banner.svg" alt="Tahlil Al Raiyan - Software Developer | Problem Solver | Data Science and Machine Learning" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;C%2B%2B+%7C+C%23+%7C+Java+%7C+Python;Building+Projects+%26+Learning+Every+Day;Turning+ideas+into+working+code" alt="Typing SVG" />
 
