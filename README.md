@@ -31,7 +31,7 @@
 
 ```text
 🎓 CSE Student
-💻 Interested in Software Development, Data Science and Machine Learning
+💻 Interested in Software Development
 🧩 Enjoy building academic & personal projects
 🚀 Currently improving my programming fundamentals
 🌱 Learning new technologies by building real projects
@@ -90,6 +90,25 @@ Features include:
 
 🔗 **Repository:**
 https://github.com/TahlilAlRaiyan/Smart-Car-Rental-Management-System-Customer-Role
+
+---
+
+### ⏰ Tkinter Clock App
+
+**Python | Tkinter**
+
+A desktop clock app combining Digital Clock, Stopwatch, Alarm, Timer and World Clock in one single-window interface, switching views through a sidebar instead of separate pop-up windows.
+
+Features include:
+
+- 🕒 Digital Clock
+- ⏱️ Stopwatch
+- ⏰ Alarm with completion sound
+- ⏳ Timer with completion sound
+- 🌍 World Clock with searchable locations
+
+🔗 **Repository:**
+https://github.com/TahlilAlRaiyan/tkinter-clock-app-python
 
 ---
 
@@ -164,6 +183,14 @@ https://github.com/TahlilAlRaiyan/qr-code-generator-python
 
 <a href="https://github.com/TahlilAlRaiyan/qr-code-generator-python">
   <img src="./profile/pin-qr-code-generator.svg" alt="QR Code Generator" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/TahlilAlRaiyan/tkinter-clock-app-python">
+  <img src="./profile/pin-tkinter-clock-app.svg" alt="Tkinter Clock App" />
 </a>
 
 </div>
