@@ -22,6 +22,10 @@
 <a href="https://tahlilalraiyan.wixsite.com/tahlilalraiyan">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=wix&logoColor=white" />
 </a>
+<br>
+<a href="https://codeforces.com/profile/_the_swordfish_">
+  <img src="https://img.shields.io/badge/Codeforces-_the__swordfish_-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
 
 </div>
 
@@ -240,6 +244,10 @@ Machine Learning         ████████░░░░░░░░░░
 <br>
 <a href="https://tahlilalraiyan.wixsite.com/tahlilalraiyan">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=wix&logoColor=white"/>
+</a>
+<br>
+<a href="https://codeforces.com/profile/_the_swordfish_">
+<img src="https://img.shields.io/badge/Codeforces-_the__swordfish_-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </div>
