@@ -35,7 +35,7 @@
 
 ```text
 🎓 CSE Student
-💻 Interested in Software Development
+💻 Interested in Software Development, Data Science and Machine Learning
 🧩 Enjoy building academic & personal projects
 🚀 Currently improving my programming fundamentals
 🌱 Learning new technologies by building real projects
